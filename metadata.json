@@ -1,0 +1,6 @@
+{
+  "name": "saveX",
+  "description": "Personal finance tracker with safe-to-spend math, quick natural text transaction engine, savings buckets, spending heatmap, and scenario planner in Indian Rupees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
